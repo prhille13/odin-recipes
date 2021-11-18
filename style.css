@@ -1,12 +1,11 @@
 h1 {
-    font-family: Helvetica, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
     color: purple;
+    text-align: center;
 }
 
 img {
     height: auto;
     width: 300px;
 }
-
-
